@@ -6,6 +6,7 @@ def guess_number():
     
     attempts = 0
     max_attempts =10
+    has_guessed=False
     print() 
     print()
     print("\t\t\t\t***Welcome to the Number Guessing Game!***")
